@@ -1,4 +1,5 @@
-# Business-Simulation-Using-Excel
+# ForeSight Insurance
+A Business-Simulation-Using-Excel
 
 A radical insurance company that sits at the intersection of technology and human interaction. 
 These machines study the consumers in these locations and suggest the best Insurance plans for these customers. 
